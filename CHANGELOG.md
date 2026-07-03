@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.36](https://github.com/kunchenguid/lavish-axi/compare/lavish-axi-v0.1.35...lavish-axi-v0.1.36) (2026-07-03)
+
+
+### Features
+
+* **sdk:** first-class zoomable, annotatable mermaid diagrams ([#124](https://github.com/kunchenguid/lavish-axi/issues/124)) ([e295450](https://github.com/kunchenguid/lavish-axi/commit/e2954503e11d334bf2135f7c64902ea59056ec33))
+
 ## [0.1.35](https://github.com/kunchenguid/lavish-axi/compare/lavish-axi-v0.1.34...lavish-axi-v0.1.35) (2026-07-02)
 
 
